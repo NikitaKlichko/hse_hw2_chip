@@ -44,4 +44,4 @@ ENCFF000AOF(control) | 	39460514 | 1799863 (4.56%) | 5619839 (14.24%)	 | 3204081
 
 ## Сравнение результатов 
 Диаграммы Венна:
-![alt-text-1](https://github.com/NikitaKlichko/hse_hw2_chip/blob/main/imgs/venn1.PNG) ![alt-text-2](https://github.com/NikitaKlichko/hse_hw2_chip/blob/main/imgs/venn2.PNG)
+![alt-text-1](https://github.com/NikitaKlichko/hse_hw2_chip/blob/main/imgs/venn1.PNG "title-1") ![alt-text-2](https://github.com/NikitaKlichko/hse_hw2_chip/blob/main/imgs/venn2.PNG "title-2")
