@@ -2,7 +2,7 @@
 
 ###### Кличко Никита
 
-*Ссылка на* 
+*Ссылка на* [google colab](https://colab.research.google.com/drive/1-s5aOPUwikfCLNopa9_3oa8vb_6zxrnH?usp=sharing) 
 
 В работе была использована клеточная линия – **DND-41**, а гистоновая метка – **H3K36me3**
 
@@ -52,4 +52,9 @@ ENCFF000AOF(control) | 	39460514 | 1799863 (4.56%) | 5619839 (14.24%)	 | 3204081
 --- | --- 
 |![](https://github.com/NikitaKlichko/hse_hw2_chip/blob/main/imgs/venn1.PNG) | ![](https://github.com/NikitaKlichko/hse_hw2_chip/blob/main/imgs/venn2.PNG) | 
 
-Из диаграм мы можем увидеть различное количество перечений. Это объясняется тем, что мы в первом случае берем участки Na_peaks и смотрим с каким количеством учатсков ENCFF973DRL он пересекается. Во втором случае наоборот.
+Из диаграм мы можем увидеть различное количество перечений. Это объясняется тем, что мы в первом случае берем участки Na_peaks и смотрим с каким количеством участков ENCFF973DRL он пересекается. Во втором случае наоборот. 
+
+## *Бонус 
+
+![](https://github.com/NikitaKlichko/hse_hw2_chip/blob/main/imgs/ngs.PNG)  
+
