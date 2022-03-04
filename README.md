@@ -56,5 +56,5 @@ ENCFF000AOF(control) | 	39460514 | 1799863 (4.56%) | 5619839 (14.24%)	 | 3204081
 
 ## *Бонус 
 
-![](https://github.com/NikitaKlichko/hse_hw2_chip/blob/main/imgs/ngs.PNG)  
+![](https://github.com/NikitaKlichko/hse_hw2_chip/blob/main/imgs/ngs.png) 
 
